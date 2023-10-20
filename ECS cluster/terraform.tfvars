@@ -1,0 +1,5 @@
+aws_access_key = "**********9**"
+aws_secret_key = "*********************"
+aws_region    = "us-east-2"
+vpc_cidr   = "10.0.0.0/16"
+availability_zone = "us-east-2a"
